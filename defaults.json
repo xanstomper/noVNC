@@ -1,1 +1,14 @@
-{}
+{
+    "host": "10.0.0.96",
+    "port": 6080,
+    "password": "",
+    "autoconnect": "true",
+    "reconnect": true,
+    "reconnect_delay": 3000,
+    "view_only": false,
+    "resize": "remote",
+    "quality": 9,
+    "compression": 2,
+    "show_dot": false,
+    "logging": "warn"
+}
